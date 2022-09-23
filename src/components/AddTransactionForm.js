@@ -10,7 +10,7 @@ function AddTransactionForm() {
           <input type="text" name="category" placeholder="Category" />
           <input type="number" name="amount" placeholder="Amount" step="0.01" />
         </div>
-        <button className="ui button" type="submit">
+        <button className="ui button" type="submit" onClick>
           Add Transaction
         </button>
       </form>

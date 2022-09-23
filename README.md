@@ -131,5 +131,5 @@ As a user, I should be able to:
 Example Response:
 
 ```json
-{}
+{}=
 ```
