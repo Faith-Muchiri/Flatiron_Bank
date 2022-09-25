@@ -83,6 +83,34 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2022-09-01",
+      "description": "Buy umbrella",
+      "category": "assets",
+      "amount": "600",
+      "id": 13
+    },
+    {
+      "date": "2022-08-30",
+      "description": "moringa sch paycheck",
+      "category": "fees",
+      "amount": "200000",
+      "id": 14
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": 0,
+      "id": 15
+    },
+    {
+      "date": "2022-09-05",
+      "description": "mask",
+      "category": "health",
+      "amount": "10",
+      "id": 16
     }
   ]
 }
